@@ -81,6 +81,8 @@ The purpose of this project is to practice Python fundamentals by building a sim
 
 **Omar Adel Abdul Hakam**
 
-AI Student | Machine Learning Enthusiast
+AI Enggineer
 
-GitHub: [YOUR_GITHUB_USERNAME]
+GitHub: [AiOmarAdel]
+Linkedin:[www.linkedin.com/in/omar-al-ayouti]
+Phone:[01553664271]
